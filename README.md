@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mahmut Can Çönger</h1>
 
 <p align="center">
-  <em>A software developer based in Sivas, building scalable and innovative Android applications. 🚀</em>
+  <em>A software developer based in Manisa, building scalable and innovative Android applications. 🚀</em>
 </p>
 
 ---
